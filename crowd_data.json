@@ -1,0 +1,224 @@
+{
+    "cam1": {
+        "count": 3,
+        "alert": "GREEN",
+        "mode": "YOLO"
+    },
+    "cam2": {
+        "count": 8,
+        "alert": "ORANGE",
+        "mode": "YOLO"
+    },
+    "reds": 120,
+    "oranges": 459,
+    "labels1": [
+        "12:44:29",
+        "12:44:33",
+        "12:44:38",
+        "12:44:44",
+        "12:44:47",
+        "12:44:50",
+        "12:44:54",
+        "12:44:58",
+        "12:45:03",
+        "12:45:07",
+        "12:45:10",
+        "12:45:14",
+        "12:45:17",
+        "12:45:20",
+        "12:45:24"
+    ],
+    "counts1": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3
+    ],
+    "labels2": [
+        "12:44:29",
+        "12:44:33",
+        "12:44:38",
+        "12:44:44",
+        "12:44:47",
+        "12:44:50",
+        "12:44:54",
+        "12:44:58",
+        "12:45:03",
+        "12:45:07",
+        "12:45:10",
+        "12:45:14",
+        "12:45:17",
+        "12:45:20",
+        "12:45:24"
+    ],
+    "counts2": [
+        11,
+        11,
+        14,
+        14,
+        14,
+        4,
+        10,
+        13,
+        13,
+        13,
+        12,
+        9,
+        7,
+        10,
+        8
+    ],
+    "history": [
+        {
+            "camera": "Cam2",
+            "count": 8,
+            "mode": "YOLO",
+            "alert": "ORANGE",
+            "time": "12:45:24"
+        },
+        {
+            "camera": "Cam1",
+            "count": 3,
+            "mode": "YOLO",
+            "alert": "GREEN",
+            "time": "12:45:24"
+        },
+        {
+            "camera": "Cam2",
+            "count": 10,
+            "mode": "YOLO",
+            "alert": "ORANGE",
+            "time": "12:45:20"
+        },
+        {
+            "camera": "Cam1",
+            "count": 2,
+            "mode": "YOLO",
+            "alert": "GREEN",
+            "time": "12:45:20"
+        },
+        {
+            "camera": "Cam2",
+            "count": 7,
+            "mode": "YOLO",
+            "alert": "ORANGE",
+            "time": "12:45:17"
+        },
+        {
+            "camera": "Cam1",
+            "count": 2,
+            "mode": "YOLO",
+            "alert": "GREEN",
+            "time": "12:45:17"
+        },
+        {
+            "camera": "Cam2",
+            "count": 9,
+            "mode": "YOLO",
+            "alert": "ORANGE",
+            "time": "12:45:14"
+        },
+        {
+            "camera": "Cam1",
+            "count": 2,
+            "mode": "YOLO",
+            "alert": "GREEN",
+            "time": "12:45:14"
+        },
+        {
+            "camera": "Cam2",
+            "count": 12,
+            "mode": "CSRNET",
+            "alert": "ORANGE",
+            "time": "12:45:10"
+        },
+        {
+            "camera": "Cam1",
+            "count": 2,
+            "mode": "YOLO",
+            "alert": "GREEN",
+            "time": "12:45:10"
+        },
+        {
+            "camera": "Cam2",
+            "count": 13,
+            "mode": "CSRNET",
+            "alert": "RED",
+            "time": "12:45:07"
+        },
+        {
+            "camera": "Cam1",
+            "count": 2,
+            "mode": "YOLO",
+            "alert": "GREEN",
+            "time": "12:45:07"
+        },
+        {
+            "camera": "Cam2",
+            "count": 13,
+            "mode": "CSRNET",
+            "alert": "RED",
+            "time": "12:45:03"
+        },
+        {
+            "camera": "Cam1",
+            "count": 2,
+            "mode": "YOLO",
+            "alert": "GREEN",
+            "time": "12:45:03"
+        },
+        {
+            "camera": "Cam2",
+            "count": 13,
+            "mode": "CSRNET",
+            "alert": "RED",
+            "time": "12:44:58"
+        },
+        {
+            "camera": "Cam1",
+            "count": 2,
+            "mode": "YOLO",
+            "alert": "GREEN",
+            "time": "12:44:58"
+        },
+        {
+            "camera": "Cam2",
+            "count": 10,
+            "mode": "YOLO",
+            "alert": "ORANGE",
+            "time": "12:44:54"
+        },
+        {
+            "camera": "Cam1",
+            "count": 2,
+            "mode": "YOLO",
+            "alert": "GREEN",
+            "time": "12:44:54"
+        },
+        {
+            "camera": "Cam2",
+            "count": 4,
+            "mode": "YOLO",
+            "alert": "GREEN",
+            "time": "12:44:50"
+        },
+        {
+            "camera": "Cam1",
+            "count": 1,
+            "mode": "YOLO",
+            "alert": "GREEN",
+            "time": "12:44:50"
+        }
+    ]
+}
